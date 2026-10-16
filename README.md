@@ -23,7 +23,7 @@ Evidence repository for a consulting report on how cloud-enabled AI can support 
 │   ├── sources.md          The three source documents and links
 │   ├── screenshots/        Figures 16–20, E1–E5
 │   └── audio/              Audio Overview (optional)
-└── report-figures/         Figure 10 (Q2 attack path diagram)
+
 ```
 
 ---
