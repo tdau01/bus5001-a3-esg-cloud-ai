@@ -1,0 +1,18 @@
+User: 	    HI
+GreenDesk:  Hi, I'm GreenDesk, an automated assistant for reporting leaks, energy waste, recycling problems, hazards and accessibility barriers.  
+
+Please don't include names or health details. For emergencies call 000; for conduct or wellbeing concerns, contact HR. Say "report an issue" to start, or "talk to a person" at any time.
+
+User: 	    I want to report an issue
+GreenDesk:  What kind of issue is it? Water leak, energy waste, waste contamination, hazardous disposal or accessibility barrier.
+
+User: 	    someone dumped chemicals in the bin
+GreenDesk:  Which building and room or area? For example: Building C, level 2 kitchen.
+
+User: 	    Back of the science building
+GreenDesk:  How urgent is it: low, medium, high or critical? Say critical if there is flooding or a safety risk.
+
+User: 	    Medium
+GreenDesk:  I'm passing this to a person in the Facilities and Safety on-call team now.  
+
+GreenDesk:  If anyone is in danger, call 000 or Campus Security. (Prototype: in a live system this would create a priority ticket.)
